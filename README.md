@@ -13,6 +13,10 @@
 
 Full-Stack web developer passionate about new challenges and learning opportunities. Professional with a high sense of commitment, good customer management, excellent communication, collaborative and easy to adapt. Currently looking for new opportunities that allow us to develop creative, innovative and disruptive solutions, and positively impact society.
 
+## 💻 Tech Stack:
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,ruby,rails,nodejs,postgres,tailwind,ts)](https://skillicons.dev)
+
 
 ## 📌 Actualmente
 
@@ -21,6 +25,4 @@ Full-Stack web developer passionate about new challenges and learning opportunit
 - 👯 I am looking to collaborate on innovative projects with social impact.
 - 🤔 Looking for help with tips on best practices in software development.
 - 💬 Ask me about my projects, web technologies and Full-Stack development.
-- 📫 How to contact me: [semirenahillary16@gmail.com] (mailto:semirenahillary16@gmail.com)
-- 😄 Pronouns: She/Her
 - ⚡ Fun fact i love solving logical challenges in my free time.
